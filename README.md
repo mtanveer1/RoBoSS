@@ -1,8 +1,7 @@
 # RoBoSS
 RoBoSS: A Robust, Bounded, Sparse, and Smooth Loss Function for Supervised Learning
 
-This code corresponds to the paper: Mushir Akhtar, M. Tanveer, and Mohd. Arshad. "RoBoSS: A Robust, Bounded, Sparse, and Smooth Loss Function for Supervised Learning.” 
-- Under Revision in IEEE Transactions on Pattern Analysis and Machine Intelligence.
+This code corresponds to the paper: M. Akhtar, M. Tanveer and M. Arshad, "RoBoSS: A Robust, Bounded, Sparse, and Smooth Loss Function for Supervised Learning," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 47, no. 1, pp. 149-160, Jan. 2025, doi: 10.1109/TPAMI.2024.3465535.
 
 If you are using our code, please give proper citation to the above given paper.
 
